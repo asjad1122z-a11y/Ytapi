@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/yt-info/yt",
-      "dest": "/api/yt.py"
+      "dest": "/api/main.py"
     }
   ]
 }
