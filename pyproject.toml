@@ -1,0 +1,4 @@
+[tool.vercel]
+project = "Ytapi"
+framework = "python"
+entrypoint = "api/yt.py"  # <- tell Vercel your file
