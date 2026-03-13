@@ -3,7 +3,7 @@ import requests
 
 app = Flask(__name__)
 
-API_KEY = "YOUR_YOUTUBE_API_KEY"  # <-- Replace this with your key
+API_KEY = "AIzaSyBVP3NiKKJvb-0ar2J3y9IFVVHHWRng4nA"  # <-- Replace this with your key
 
 def format_channel_info(data, handle):
     snippet = data["snippet"]
